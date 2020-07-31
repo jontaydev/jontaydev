@@ -1,3 +1,3 @@
 ### Projects
 
-[Thematic](https://thematic.dev): a framework for building editor themes.
+[Thematic](https://thematic.dev): A framework for building editor themes.
