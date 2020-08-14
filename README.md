@@ -1,3 +1,3 @@
 ### Projects
 
-[Thematic](https://thematic.dev): A framework for building editor themes.
+[Subtheme](https://subtheme.pro): A collection of beautiful editor themes.
